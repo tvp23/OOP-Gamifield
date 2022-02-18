@@ -1,2 +1,2 @@
 # OOP-Gamifield
-This is a project where I learned about OOP in java.
+This is a project where I learn about OOP in java.
